@@ -1,0 +1,35 @@
+/*empieza hablar sobre historia*/
+body{
+    background-image: url(img/mujer-día.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1500px;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: #ff0080;
+    text-align: center;
+}
+
+/*prehistoria*/
+h2{
+    background-color: blueviolet;
+    text-align: center;
+}
+/*reinvindicaciones*/
+h3{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+footer{
+    background-color: blueviolet;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

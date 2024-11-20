@@ -1,0 +1,43 @@
+/*informacion 8m*/
+body{
+    background-image: url(img/mujer-día.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1500px;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/*8m*/
+h1{
+    background-color: beige;
+    text-align: center;
+}
+/*su introduccion*/
+h2{
+        background-color: #ff0080;
+        text-align: center;
+    }
+    
+nav{
+    background-color: #ff0080;
+}
+/*que es la esi*/
+h3{
+    background-color: beige;
+    text-align: center;
+}
+/*ley de esi*/
+h4{
+    background-color:#ff0080;
+    text-align: center;
+}
+footer{
+    background-color:beige;
+    
+}
+p{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

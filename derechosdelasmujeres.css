@@ -1,0 +1,42 @@
+/*empieza hablar sobre derechos*/
+body{
+    background-image: url(img/mujer-día.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 1500px;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+/*derechos*/
+h1{
+    background-color:#ff0080;
+    text-align: center;
+}
+/*por que es importante*/
+h2{
+    background-color: beige;
+    text-align: center;
+}
+/*proteger derechos*/
+    h3{
+        background-color: #ff0080;
+        text-align: center;
+    }
+
+div{
+    
+    margin: 10px;
+    padding: 20px;
+    height: 200%;
+    width: 150%;
+}
+footer{
+    background-color: #ff0080;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

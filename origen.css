@@ -1,0 +1,36 @@
+/*aca empieza el body*/
+    body{
+        background-image: url(img/mujer-día.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 1500px;
+        background-attachment: fixed;
+        background-size: cover;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        padding: 0;
+}
+/*origen*/
+h1{
+    background-color: beige;
+    text-align: center;
+}
+/*razones de lucha*/
+
+h2{
+    background-color: beige;
+    text-align: center;
+}
+
+/*avances*/
+h3{
+    background-color:blueviolet
+    
+}
+
+footer{
+    background-color: blueviolet;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
